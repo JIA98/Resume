@@ -24,19 +24,19 @@ Machine Learning과 Data Mining에 관심있는 개발자
 ### 3. 보유기술(Technical Skills)
 
 3.1  기초지식(Basics)
-* Programming Languages: C, C++, __Java__, Javascript, jQuery, __R__, Python
-* Operating Systems: Linux,Unix
+* Programming Languages: C, C++, __Java__, __Javascript__, __jQuery__, __R__, __Python__
+* Operating Systems: __Linux__, Unix
 * IDE(Eclipse)
 
 3.2 웹 개발(Web Development)
 * Java 개발 프레임워크(__MVC__, __Spring__)
-* DB 응용 개발(Oracle, Mysql, MS)
+* DB 응용 개발(Oracle, __Mysql__, MS)
 * Server(Apache web server, Tomcat,Google App engine, AWS)
 
 3.3 소프트웨어 도구(Software Tools)
 * 소스코드관리(__Git__)
-* 빌드도구(Maven, Gradle)
-* 이슈&프로젝트관리(wiki, Trello, Jira)
+* 빌드도구(Maven, Gradle, __Jenkins__)
+* 이슈&프로젝트관리(wiki, __Trello__, __Jira__, __RedMine__)
 
 3.4 학부 수강 과목(Course)
 * ( 언어 ) C(컴프1, 컴프2), C++(객체지향언어1), JAVA(객체지향언어2), R, Python
@@ -110,12 +110,6 @@ Machine Learning과 Data Mining에 관심있는 개발자
 github: https://github.com/hyeonyoung92  
 email: cherry92_love@nate.com
 
-
-server side requirement (back-end):
-linux + web server(Apache, Nginx) + web application server(tomcat) + db server(mysql)
-
-client side requirement (front-end):
-android, html5/css/javascript 
 
 
 
